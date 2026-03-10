@@ -137,6 +137,7 @@ Happy coding! 🎉
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
@@ -198,4 +199,12 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
