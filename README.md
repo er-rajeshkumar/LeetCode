@@ -152,6 +152,7 @@ Happy coding! 🎉
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
@@ -207,4 +208,12 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
