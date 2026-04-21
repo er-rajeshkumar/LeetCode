@@ -1,6 +1,6 @@
 class Solution {
     public static void result(String digits, String letters, List<String> res){
-        if(digits == ""){
+        if(digits.length() == 0){
             res.add(letters);
             return;
         }
