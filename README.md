@@ -130,6 +130,7 @@ Happy coding! 🎉
 | [0128-longest-consecutive-sequence](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/er-rajeshkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0283-move-zeroes) |
@@ -160,6 +161,7 @@ Happy coding! 🎉
 | [0073-set-matrix-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/er-rajeshkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -175,6 +177,7 @@ Happy coding! 🎉
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/er-rajeshkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
