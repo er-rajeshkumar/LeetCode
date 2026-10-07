@@ -1,16 +1,17 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        if(prices.length < 2)
+        int n = prices.length;
+        if(n <2)
             return 0;
-
+        int min = prices[0];
+        int max = prices[0];
         int profit = 0;
-        int buy = prices[0];
-        for(int i = 0; i < prices.length ; i++){
-            if(prices[i] < buy){
-                buy = prices[i];
-            }else {
-                profit = Math.max(prices[i]-buy, profit);
-            }
+        int minimumTillDate = prices[0];
+        for(int i = 0; i < n; i++){
+            max = Math.max(prices[i], max);
+            min = Math.min(prices[i], min);
+            profit = Math.max(profit, prices[i] - min);   
+                     
         }
         return profit;
     }
