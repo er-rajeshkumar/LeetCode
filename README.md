@@ -130,6 +130,7 @@ Happy coding! 🎉
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/er-rajeshkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
@@ -162,6 +163,7 @@ Happy coding! 🎉
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/er-rajeshkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
@@ -179,6 +181,7 @@ Happy coding! 🎉
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/er-rajeshkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
@@ -187,6 +190,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +215,7 @@ Happy coding! 🎉
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
@@ -241,4 +246,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
