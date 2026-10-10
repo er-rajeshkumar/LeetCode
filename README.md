@@ -169,6 +169,7 @@ Happy coding! 🎉
 | [0205-isomorphic-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/er-rajeshkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/er-rajeshkumar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Binary Search
@@ -187,6 +188,7 @@ Happy coding! 🎉
 | [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/er-rajeshkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/er-rajeshkumar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
@@ -233,6 +235,7 @@ Happy coding! 🎉
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/er-rajeshkumar/LeetCode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
