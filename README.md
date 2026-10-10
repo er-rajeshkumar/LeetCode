@@ -134,6 +134,7 @@ Happy coding! 🎉
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/er-rajeshkumar/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/er-rajeshkumar/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -250,4 +251,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/er-rajeshkumar/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
