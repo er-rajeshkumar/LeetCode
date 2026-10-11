@@ -120,6 +120,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/er-rajeshkumar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0031-next-permutation) |
@@ -157,6 +158,7 @@ Happy coding! 🎉
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/er-rajeshkumar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0031-next-permutation) |
@@ -259,6 +261,7 @@ Happy coding! 🎉
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/er-rajeshkumar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
