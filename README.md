@@ -166,6 +166,7 @@ Happy coding! 🎉
 | [0026-remove-duplicates-from-sorted-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/er-rajeshkumar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/er-rajeshkumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0283-move-zeroes) |
@@ -263,6 +264,7 @@ Happy coding! 🎉
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/er-rajeshkumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0125-valid-palindrome](https://github.com/er-rajeshkumar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/er-rajeshkumar/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
