@@ -144,6 +144,7 @@ Happy coding! 🎉
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +170,7 @@ Happy coding! 🎉
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -185,6 +187,7 @@ Happy coding! 🎉
 | [0242-valid-anagram](https://github.com/er-rajeshkumar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -195,6 +198,7 @@ Happy coding! 🎉
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/er-rajeshkumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,6 +215,7 @@ Happy coding! 🎉
 | [0242-valid-anagram](https://github.com/er-rajeshkumar/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
