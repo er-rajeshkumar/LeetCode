@@ -1,41 +1,24 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        
-        int n = s.length();
-        int m = t.length();
-        if(n != m){
+        if (s.length() != t.length()) {
             return false;
         }
-        int temp = 0;
-        boolean visited[] = new boolean[n];
 
-        for(int i = 0; i <n; i++){
+        int[] mapS = new int[65536];
+        int[] mapT = new int[65536];
 
-            if( !visited[i] ){
-                char currCharS = s.charAt(i);
-                char currCharT = t.charAt(i);
-                temp = i;
-                while (temp < n){
-                    if(s.charAt(temp) == currCharS){
-                        if(t.charAt(temp) != currCharT ){
-                            return false;
-                        }
-                        else{
-                            visited[temp] = true;
-                        }  
-                    }
-                    if(t.charAt(temp) == currCharT){
-                        if(s.charAt(temp) != currCharS ){
-                            return false;
-                        }
-                        else{
-                            visited[temp] = true;
-                        }
-                    }
-                    temp++;
-                }
+        for (int i = 0; i < s.length(); i++) {
+            char a = s.charAt(i);
+            char b = t.charAt(i);
+
+            if (mapS[a] != mapT[b]) {
+                return false;
             }
+
+            mapS[a] = i + 1;
+            mapT[b] = i + 1;
         }
+
         return true;
     }
 }
