@@ -192,6 +192,7 @@ Happy coding! 🎉
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/er-rajeshkumar/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
@@ -207,6 +208,7 @@ Happy coding! 🎉
 | ------- |
 | [0136-single-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/er-rajeshkumar/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +221,7 @@ Happy coding! 🎉
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/er-rajeshkumar/LeetCode/tree/master/0389-find-the-difference) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
@@ -270,6 +273,7 @@ Happy coding! 🎉
 | [0205-isomorphic-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/er-rajeshkumar/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/er-rajeshkumar/LeetCode/tree/master/0389-find-the-difference) |
 ## Backtracking
 |  |
 | ------- |
