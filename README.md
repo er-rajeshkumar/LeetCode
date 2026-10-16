@@ -271,6 +271,7 @@ Happy coding! 🎉
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/er-rajeshkumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/er-rajeshkumar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/er-rajeshkumar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/er-rajeshkumar/LeetCode/tree/master/0242-valid-anagram) |
@@ -290,6 +291,7 @@ Happy coding! 🎉
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/er-rajeshkumar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -316,4 +318,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/er-rajeshkumar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/er-rajeshkumar/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
