@@ -153,6 +153,7 @@ Happy coding! 🎉
 | [0643-maximum-average-subarray-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Happy coding! 🎉
 | [0389-find-the-difference](https://github.com/er-rajeshkumar/LeetCode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -319,6 +321,7 @@ Happy coding! 🎉
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/er-rajeshkumar/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Union-Find
 |  |
 | ------- |
