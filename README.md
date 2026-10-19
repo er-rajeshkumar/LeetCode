@@ -120,6 +120,7 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/er-rajeshkumar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -200,6 +201,7 @@ Happy coding! 🎉
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/er-rajeshkumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
@@ -228,6 +230,7 @@ Happy coding! 🎉
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
