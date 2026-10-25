@@ -1,5 +1,24 @@
 class Solution {
     public int majorityElement(int[] nums) {
+
+        //Boyer–Moore Voting Algorithm
+        int count = 1;
+        int candidate = nums[0] ;
+        for(int i = 1; i < nums.length ; i++){
+            int curr = nums[i];
+            if(count == 0){
+                candidate = curr;
+            }
+            if(curr == candidate){
+                count++;
+            }else{
+                count--;
+            }
+        }
+        return candidate;
+
+
+        /*
         HashMap<Integer,Integer> map = new HashMap<>();
 
         int n = nums.length;
@@ -16,5 +35,7 @@ class Solution {
         //     }
         // }
         return 0;
+
+        */
     }
 }
