@@ -1,9 +1,6 @@
 class Solution {
     public int maxProduct(int[] nums) {
         int n = nums.length;
-        if( n == 2){
-            return (nums[0] - 1) * (nums[1]- 1);
-        }
         int max1 = Integer.MIN_VALUE , max2 = Integer.MIN_VALUE;
         for(int i : nums){
             if(i > max1){
