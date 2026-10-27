@@ -8,10 +8,16 @@ class Solution {
 
         PriorityQueue<Map.Entry<Integer, Integer>> pq =
             new PriorityQueue<>(
-                (a, b) -> Integer.compare(b.getValue(), a.getValue())
+                (a, b) -> Integer.compare(a.getValue(), b.getValue())
             );
 
-        pq.addAll(map.entrySet());
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            pq.offer(entry);
+
+            if (pq.size() > k) {
+                pq.poll();
+            }
+        }
         int[] result = new int[k];
 
         for (int i = 0; i < k; i++) {
