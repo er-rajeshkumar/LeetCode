@@ -150,6 +150,7 @@ Happy coding! 🎉
 | [0347-top-k-frequent-elements](https://github.com/er-rajeshkumar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/er-rajeshkumar/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -170,6 +171,7 @@ Happy coding! 🎉
 | [0048-rotate-image](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/er-rajeshkumar/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
 |  |
