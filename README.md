@@ -158,6 +158,7 @@ Happy coding! 🎉
 | [0560-subarray-sum-equals-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/er-rajeshkumar/LeetCode/tree/master/0739-daily-temperatures) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -190,6 +191,7 @@ Happy coding! 🎉
 | [0283-move-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -224,6 +226,7 @@ Happy coding! 🎉
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/er-rajeshkumar/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Bit Manipulation
@@ -248,6 +251,7 @@ Happy coding! 🎉
 | [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/er-rajeshkumar/LeetCode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
