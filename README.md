@@ -195,6 +195,7 @@ Happy coding! 🎉
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1768-merge-strings-alternately](https://github.com/er-rajeshkumar/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -322,6 +323,7 @@ Happy coding! 🎉
 | [0383-ransom-note](https://github.com/er-rajeshkumar/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/er-rajeshkumar/LeetCode/tree/master/0389-find-the-difference) |
+| [1768-merge-strings-alternately](https://github.com/er-rajeshkumar/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Backtracking
 |  |
