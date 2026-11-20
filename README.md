@@ -148,6 +148,7 @@ Happy coding! 🎉
 | [0239-sliding-window-maximum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/er-rajeshkumar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/er-rajeshkumar/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -342,6 +343,7 @@ Happy coding! 🎉
 | ------- |
 | [0011-container-with-most-water](https://github.com/er-rajeshkumar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/er-rajeshkumar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/er-rajeshkumar/LeetCode/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -433,4 +435,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/er-rajeshkumar/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
