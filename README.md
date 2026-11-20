@@ -178,6 +178,7 @@ Happy coding! 🎉
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/er-rajeshkumar/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -323,6 +324,7 @@ Happy coding! 🎉
 | [0383-ransom-note](https://github.com/er-rajeshkumar/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/er-rajeshkumar/LeetCode/tree/master/0389-find-the-difference) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/er-rajeshkumar/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Backtracking
@@ -416,4 +418,12 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/er-rajeshkumar/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
