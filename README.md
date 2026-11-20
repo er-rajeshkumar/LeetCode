@@ -200,6 +200,7 @@ Happy coding! 🎉
 | [0345-reverse-vowels-of-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/er-rajeshkumar/LeetCode/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/er-rajeshkumar/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -284,6 +285,7 @@ Happy coding! 🎉
 | [0118-pascals-triangle](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/er-rajeshkumar/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -331,6 +333,7 @@ Happy coding! 🎉
 | [0383-ransom-note](https://github.com/er-rajeshkumar/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/er-rajeshkumar/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/er-rajeshkumar/LeetCode/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/er-rajeshkumar/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
