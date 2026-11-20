@@ -157,6 +157,7 @@ Happy coding! 🎉
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/er-rajeshkumar/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/er-rajeshkumar/LeetCode/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/er-rajeshkumar/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -337,6 +338,7 @@ Happy coding! 🎉
 | ------- |
 | [0011-container-with-most-water](https://github.com/er-rajeshkumar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/er-rajeshkumar/LeetCode/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
