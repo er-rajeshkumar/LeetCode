@@ -11,16 +11,17 @@ public class Solution extends GuessGame {
     public int guessNumber(int n) {
         int left = 0;
         int right = n;
-        int pick = guess((right + left)/2);
+        int mid = left + (right - left) / 2;
+        int pick = guess(mid);
         while(pick != 0){
             if(pick == 1){
-                left = (right + left)/2+1;
+                left = mid+1;
             }else if(pick == -1){
-                right = (right + left)/2-1;
+                right = mid-1;
             }
-            pick = guess((right + left)/2);
+            mid = left + (right - left) / 2;
+            pick = guess(mid);
         }
-
-        return (right + left)/2;
+        return mid;
     }
 }
