@@ -315,6 +315,7 @@ Happy coding! 🎉
 | [0054-spiral-matrix](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0054-spiral-matrix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -362,6 +363,7 @@ Happy coding! 🎉
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/er-rajeshkumar/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/er-rajeshkumar/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -381,6 +383,7 @@ Happy coding! 🎉
 | [0020-valid-parentheses](https://github.com/er-rajeshkumar/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/er-rajeshkumar/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/er-rajeshkumar/LeetCode/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
