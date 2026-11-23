@@ -173,6 +173,7 @@ Happy coding! 🎉
 | [1838-frequency-of-the-most-frequent-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/er-rajeshkumar/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -240,6 +241,7 @@ Happy coding! 🎉
 | [0523-continuous-subarray-sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/er-rajeshkumar/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
