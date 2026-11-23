@@ -172,6 +172,7 @@ Happy coding! 🎉
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/er-rajeshkumar/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2574-left-and-right-sum-differences](https://github.com/er-rajeshkumar/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/er-rajeshkumar/LeetCode/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 ## Math
 |  |
@@ -384,6 +385,7 @@ Happy coding! 🎉
 | [1004-max-consecutive-ones-iii](https://github.com/er-rajeshkumar/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/er-rajeshkumar/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
 | ------- |
