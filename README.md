@@ -138,6 +138,7 @@ Happy coding! 🎉
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/er-rajeshkumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
@@ -250,6 +251,7 @@ Happy coding! 🎉
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/er-rajeshkumar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
