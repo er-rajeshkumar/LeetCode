@@ -415,6 +415,7 @@ Happy coding! 🎉
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/er-rajeshkumar/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -492,4 +493,12 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/er-rajeshkumar/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/er-rajeshkumar/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/er-rajeshkumar/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
