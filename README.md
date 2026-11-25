@@ -342,11 +342,13 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/er-rajeshkumar/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/er-rajeshkumar/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/er-rajeshkumar/LeetCode/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
