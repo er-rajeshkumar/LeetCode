@@ -174,6 +174,7 @@ Happy coding! 🎉
 | [1679-max-number-of-k-sum-pairs](https://github.com/er-rajeshkumar/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/er-rajeshkumar/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/er-rajeshkumar/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/er-rajeshkumar/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1991-find-the-middle-index-in-array](https://github.com/er-rajeshkumar/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/er-rajeshkumar/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/er-rajeshkumar/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -330,6 +331,7 @@ Happy coding! 🎉
 | [0048-rotate-image](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/er-rajeshkumar/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Counting
 |  |
 | ------- |
@@ -503,4 +505,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/er-rajeshkumar/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/er-rajeshkumar/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
