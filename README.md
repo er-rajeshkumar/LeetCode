@@ -511,4 +511,16 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/er-rajeshkumar/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+## Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/er-rajeshkumar/LeetCode/tree/master/0872-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/er-rajeshkumar/LeetCode/tree/master/0872-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/er-rajeshkumar/LeetCode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
