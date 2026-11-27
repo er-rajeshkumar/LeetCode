@@ -195,6 +195,7 @@ Happy coding! 🎉
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/er-rajeshkumar/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/er-rajeshkumar/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3360-stone-removal-game](https://github.com/er-rajeshkumar/LeetCode/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Happy coding! 🎉
 | [2243-calculate-digit-sum-of-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajeshkumar-niet/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/er-rajeshkumar/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/er-rajeshkumar/LeetCode/tree/master/3360-stone-removal-game) |
 ## Union Find
 |  |
 | ------- |
