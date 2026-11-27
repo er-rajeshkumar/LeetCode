@@ -510,17 +510,21 @@ Happy coding! 🎉
 ## Breadth-First Search
 |  |
 | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/er-rajeshkumar/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/er-rajeshkumar/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Tree
 |  |
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/er-rajeshkumar/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/er-rajeshkumar/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/er-rajeshkumar/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/er-rajeshkumar/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0872-leaf-similar-trees](https://github.com/er-rajeshkumar/LeetCode/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/er-rajeshkumar/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
