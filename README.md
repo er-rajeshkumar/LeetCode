@@ -189,6 +189,7 @@ Happy coding! 🎉
 | [0002-add-two-numbers](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/er-rajeshkumar/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/er-rajeshkumar/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -310,6 +311,7 @@ Happy coding! 🎉
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/er-rajeshkumar/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/er-rajeshkumar/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajeshkumar-niet/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/er-rajeshkumar/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -535,4 +537,8 @@ Happy coding! 🎉
 |  |
 | ------- |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/er-rajeshkumar/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/er-rajeshkumar/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
